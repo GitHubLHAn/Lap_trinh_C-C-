@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/d/Databases/Hoc_Code_CPP/thanTrieu_channel.cpp'
+make: Leaving directory '/d/Databases/Hoc_Code_CPP/thanTrieu_channel.cpp'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
